@@ -10,7 +10,7 @@ This repo contains a collection of **Python programs**, **concepts**, and **mini
 This repository includes:
 - Basic Python programs for beginners  
 - Control flow (loops, conditions, functions)  
-- Data structures (lists, tuples, sets, dictionaries)  
+- Data structures (lists, tuples, sets, dictionaries)   
 
 ---
 
