@@ -3,7 +3,6 @@
 Welcome to my **Python Basics** repository!  
 This repo contains a collection of **Python programs**, **concepts**, and **mini projects** that I created while learning the fundamentals of Python programming.
 
-
 ## 🚀 About This Repository
 
 This repository includes:
